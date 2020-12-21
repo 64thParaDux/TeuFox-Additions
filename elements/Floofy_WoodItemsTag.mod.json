@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Floofy_WoodWood"
+      },
+      {
+        "value": "CUSTOM:Floofy_WoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "floofy_wood_log",
+    "namespace": "forge"
+  }
+}

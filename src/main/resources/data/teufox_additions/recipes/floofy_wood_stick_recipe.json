@@ -1,0 +1,20 @@
+{
+  "group": "teufox_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "teufox_additions:floofy_wood_planks"
+    },
+    "1": {
+      "item": "teufox_additions:floofy_wood_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

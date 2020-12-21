@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "teufox_additions:blocks/floofy_wood_planks",
+    "particle": "teufox_additions:blocks/floofy_wood_planks"
+  }
+}

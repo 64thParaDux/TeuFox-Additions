@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Floofy Tab",
+    "icon": {
+      "value": "CUSTOM:Floofy_WoodPlanks"
+    },
+    "showSearch": true
+  }
+}

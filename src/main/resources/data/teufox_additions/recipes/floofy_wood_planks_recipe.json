@@ -1,0 +1,13 @@
+{
+  "group": "teufox_additions",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:floofy_wood_log"
+    }
+  ],
+  "result": {
+    "item": "teufox_additions:floofy_wood_planks",
+    "count": 4
+  }
+}

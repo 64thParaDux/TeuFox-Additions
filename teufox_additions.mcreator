@@ -1,0 +1,337 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Floofy_WoodWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_wood"
+    },
+    {
+      "name": "Floofy_WoodLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_log"
+    },
+    {
+      "name": "Floofy_WoodPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_planks"
+    },
+    {
+      "name": "Floofy_WoodLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_leaves"
+    },
+    {
+      "name": "Floofy_WoodStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_stairs"
+    },
+    {
+      "name": "Floofy_WoodSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_slab"
+    },
+    {
+      "name": "Floofy_WoodFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_fence"
+    },
+    {
+      "name": "Floofy_WoodFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_fence_gate"
+    },
+    {
+      "name": "Floofy_WoodItemsTag",
+      "type": "tag",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_items_tag"
+    },
+    {
+      "name": "Floofy_WoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_wood_recipe"
+    },
+    {
+      "name": "Floofy_WoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_planks_recipe"
+    },
+    {
+      "name": "Floofy_WoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_stairs_recipe"
+    },
+    {
+      "name": "Floofy_WoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_slab_recipe"
+    },
+    {
+      "name": "Floofy_WoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_fence_recipe"
+    },
+    {
+      "name": "Floofy_WoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_fence_gate_recipe"
+    },
+    {
+      "name": "Floofy_WoodStickRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_stick_recipe"
+    },
+    {
+      "name": "FloofyWoodDoorOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_door_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FloofyWoodDoor",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_wood_door"
+    },
+    {
+      "name": "FloofyTab",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "floofy_tab"
+    },
+    {
+      "name": "MossBall",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moss_ball"
+    },
+    {
+      "name": "MossyCobble",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_cobble"
+    },
+    {
+      "name": "MossyStoneBlocks",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_stone_blocks"
+    },
+    {
+      "name": "MossBallRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moss_ball_recipe"
+    },
+    {
+      "name": "MossBallSapling",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moss_ball_sapling"
+    },
+    {
+      "name": "FlintShears",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_shears"
+    },
+    {
+      "name": "FlintShear",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_shear"
+    },
+    {
+      "name": "MossBallRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moss_ball_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Puffle",
+      "type": "mob",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "puffle"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.teufox_additions.floofy_wood_leaves": "Floofy_Wood Leaves",
+      "block.teufox_additions.floofy_wood_fence_gate": "Floofy_Wood Fence Gate",
+      "entity.teufox_additions.puffle": "Puffle",
+      "block.teufox_additions.floofy_wood_wood": "Floofy_Wood Wood",
+      "itemGroup.tabfloofy_tab": "Floofy Tab",
+      "block.teufox_additions.floofy_wood_fence": "Floofy_Wood Fence",
+      "block.teufox_additions.floofy_wood_planks": "Floofy_Wood Planks",
+      "item.teufox_additions.puffle_spawn_egg": "Puffle Spawn Egg",
+      "block.teufox_additions.floofy_wood_slab": "Floofy_Wood Slab",
+      "block.teufox_additions.floofy_wood_log": "Floofy_Wood Log",
+      "block.teufox_additions.floofy_wood_stairs": "Floofy_Wood Stairs",
+      "item.teufox_additions.flint_shears": "Flint Shears",
+      "item.teufox_additions.moss_ball": "Moss Ball",
+      "block.teufox_additions.floofy_wood_door": "Floofy Wood Door"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "teufox_additions",
+    "modName": "TeuFox Additions",
+    "version": "1.0.0",
+    "author": "JoelA, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.teufoxadditions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

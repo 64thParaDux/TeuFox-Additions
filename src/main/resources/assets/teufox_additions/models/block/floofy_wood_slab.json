@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "teufox_additions:blocks/floofy_wood_planks",
+    "top": "teufox_additions:blocks/floofy_wood_planks",
+    "side": "teufox_additions:blocks/floofy_wood_planks"
+  }
+}
