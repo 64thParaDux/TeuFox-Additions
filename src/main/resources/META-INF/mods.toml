@@ -19,6 +19,11 @@ authors="JoelA, MCreator"
 
 
 [[dependencies.teufox_additions]]
+    modId="obfuscate"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.teufox_additions]]
     modId="geckolib"
     mandatory=false
     ordering="NONE"

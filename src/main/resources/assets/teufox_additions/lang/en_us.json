@@ -1,16 +1,15 @@
 {
-  "block.teufox_additions.floofy_wood_leaves": "Floofy_Wood Leaves",
-  "block.teufox_additions.floofy_wood_fence_gate": "Floofy_Wood Fence Gate",
+  "item.teufox_additions.dust_mixer_item": "Dust Mixer Item",
+  "item.teufox_additions.coal_dust": "Coal Dust",
   "entity.teufox_additions.puffle": "Puffle",
-  "block.teufox_additions.floofy_wood_wood": "Floofy_Wood Wood",
+  "item.teufox_additions.chisel": "Chisel",
   "itemGroup.tabfloofy_tab": "Floofy Tab",
-  "block.teufox_additions.floofy_wood_fence": "Floofy_Wood Fence",
-  "block.teufox_additions.floofy_wood_planks": "Floofy_Wood Planks",
+  "item.teufox_additions.netherite_dust": "Netherite Dust",
   "item.teufox_additions.puffle_spawn_egg": "Puffle Spawn Egg",
-  "block.teufox_additions.floofy_wood_slab": "Floofy_Wood Slab",
-  "block.teufox_additions.floofy_wood_log": "Floofy_Wood Log",
-  "block.teufox_additions.floofy_wood_stairs": "Floofy_Wood Stairs",
+  "item.teufox_additions.iron_dust": "Iron Dust",
+  "item.teufox_additions.gold_dust": "Gold Dust",
   "item.teufox_additions.flint_shears": "Flint Shears",
   "item.teufox_additions.moss_ball": "Moss Ball",
-  "block.teufox_additions.floofy_wood_door": "Floofy Wood Door"
+  "item.teufox_additions.stone_dust": "Stone Dust",
+  "item.teufox_additions.quartz_dust": "Quartz Dust"
 }

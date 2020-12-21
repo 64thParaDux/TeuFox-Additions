@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.GLOWSTONE_DUST"
+      },
+      {
+        "value": "Items.REDSTONE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "dust",
+    "namespace": "forge"
+  }
+}

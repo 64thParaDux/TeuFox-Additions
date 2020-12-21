@@ -1,7 +1,0 @@
-{
-  "parent": "block/door_top_rh",
-  "textures": {
-    "bottom": "teufox_additions:blocks/floofy_wood_planks",
-    "top": "teufox_additions:blocks/floofydoortop"
-  }
-}

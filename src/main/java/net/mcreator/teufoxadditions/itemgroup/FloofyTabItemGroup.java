@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.mcreator.teufoxadditions.block.Floofy_WoodPlanksBlock;
+import net.mcreator.teufoxadditions.item.MossBallItem;
 import net.mcreator.teufoxadditions.TeufoxAdditionsModElements;
 
 @TeufoxAdditionsModElements.ModElement.Tag
@@ -22,7 +22,7 @@ public class FloofyTabItemGroup extends TeufoxAdditionsModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(Floofy_WoodPlanksBlock.block, (int) (1));
+				return new ItemStack(MossBallItem.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)

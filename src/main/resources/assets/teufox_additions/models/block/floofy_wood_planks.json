@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "teufox_additions:blocks/floofy_wood_planks",
-    "particle": "teufox_additions:blocks/floofy_wood_planks"
-  }
-}

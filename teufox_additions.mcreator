@@ -2,188 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Floofy_WoodWood",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_wood"
-    },
-    {
-      "name": "Floofy_WoodLog",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_log"
-    },
-    {
-      "name": "Floofy_WoodPlanks",
-      "type": "block",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_planks"
-    },
-    {
-      "name": "Floofy_WoodLeaves",
-      "type": "block",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_leaves"
-    },
-    {
-      "name": "Floofy_WoodStairs",
-      "type": "block",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_stairs"
-    },
-    {
-      "name": "Floofy_WoodSlab",
-      "type": "block",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_slab"
-    },
-    {
-      "name": "Floofy_WoodFence",
-      "type": "block",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_fence"
-    },
-    {
-      "name": "Floofy_WoodFenceGate",
-      "type": "block",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_fence_gate"
-    },
-    {
-      "name": "Floofy_WoodItemsTag",
-      "type": "tag",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_items_tag"
-    },
-    {
-      "name": "Floofy_WoodWoodRecipe",
-      "type": "recipe",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_wood_recipe"
-    },
-    {
-      "name": "Floofy_WoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_planks_recipe"
-    },
-    {
-      "name": "Floofy_WoodStairsRecipe",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_stairs_recipe"
-    },
-    {
-      "name": "Floofy_WoodSlabRecipe",
-      "type": "recipe",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_slab_recipe"
-    },
-    {
-      "name": "Floofy_WoodFenceRecipe",
-      "type": "recipe",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_fence_recipe"
-    },
-    {
-      "name": "Floofy_WoodFenceGateRecipe",
-      "type": "recipe",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_fence_gate_recipe"
-    },
-    {
-      "name": "Floofy_WoodStickRecipe",
-      "type": "recipe",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_stick_recipe"
-    },
-    {
-      "name": "FloofyWoodDoorOnBlockRightClicked",
-      "type": "procedure",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_door_on_block_right_clicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "FloofyWoodDoor",
-      "type": "block",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "floofy_wood_door"
-    },
-    {
       "name": "FloofyTab",
       "type": "tab",
       "sortid": 18,
@@ -292,26 +110,132 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "puffle"
+    },
+    {
+      "name": "PuffleAnimation",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "puffle_animation",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DustMixer",
+      "type": "gui",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_mixer"
+    },
+    {
+      "name": "Dust",
+      "type": "tag",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust"
+    },
+    {
+      "name": "StoneDust",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_dust"
+    },
+    {
+      "name": "IronDust",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_dust"
+    },
+    {
+      "name": "CoalDust",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_dust"
+    },
+    {
+      "name": "GoldDust",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_dust"
+    },
+    {
+      "name": "NetheriteDust",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_dust"
+    },
+    {
+      "name": "QuartzDust",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartz_dust"
+    },
+    {
+      "name": "DustMixerItem",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_mixer_item"
+    },
+    {
+      "name": "Chisel",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chisel"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.teufox_additions.floofy_wood_leaves": "Floofy_Wood Leaves",
-      "block.teufox_additions.floofy_wood_fence_gate": "Floofy_Wood Fence Gate",
+      "item.teufox_additions.dust_mixer_item": "Dust Mixer Item",
+      "item.teufox_additions.coal_dust": "Coal Dust",
       "entity.teufox_additions.puffle": "Puffle",
-      "block.teufox_additions.floofy_wood_wood": "Floofy_Wood Wood",
+      "item.teufox_additions.chisel": "Chisel",
       "itemGroup.tabfloofy_tab": "Floofy Tab",
-      "block.teufox_additions.floofy_wood_fence": "Floofy_Wood Fence",
-      "block.teufox_additions.floofy_wood_planks": "Floofy_Wood Planks",
+      "item.teufox_additions.netherite_dust": "Netherite Dust",
       "item.teufox_additions.puffle_spawn_egg": "Puffle Spawn Egg",
-      "block.teufox_additions.floofy_wood_slab": "Floofy_Wood Slab",
-      "block.teufox_additions.floofy_wood_log": "Floofy_Wood Log",
-      "block.teufox_additions.floofy_wood_stairs": "Floofy_Wood Stairs",
+      "item.teufox_additions.iron_dust": "Iron Dust",
+      "item.teufox_additions.gold_dust": "Gold Dust",
       "item.teufox_additions.flint_shears": "Flint Shears",
       "item.teufox_additions.moss_ball": "Moss Ball",
-      "block.teufox_additions.floofy_wood_door": "Floofy Wood Door"
+      "item.teufox_additions.stone_dust": "Stone Dust",
+      "item.teufox_additions.quartz_dust": "Quartz Dust"
     }
   },
   "workspaceSettings": {
@@ -326,6 +250,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [
+      "obfuscate",
       "geckolib"
     ],
     "currentGenerator": "forge-1.15.2",
