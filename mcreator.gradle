@@ -1,13 +1,4 @@
 repositories {
-  maven {
-    url = "https://www.cursemaven.com"
-  }
-}
-dependencies {
-    compile fg.deobf("curse.maven:obfuscate-289380:2946425")
-}
-
-repositories {
   maven { 
       url = 'https://repo.repsy.io/mvn/gandiber/geckolib' 
   }

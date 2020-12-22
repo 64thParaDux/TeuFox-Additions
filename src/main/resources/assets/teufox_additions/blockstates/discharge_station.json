@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "teufox_additions:block/discharge_station"
+    },
+    "type=top": {
+      "model": "teufox_additions:block/discharge_station_top"
+    },
+    "type=double": {
+      "model": "teufox_additions:block/discharge_station_full"
+    }
+  }
+}

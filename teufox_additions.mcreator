@@ -217,6 +217,57 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "chisel"
+    },
+    {
+      "name": "DischargeStation",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "discharge_station"
+    },
+    {
+      "name": "Sparks",
+      "type": "particle",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sparks"
+    },
+    {
+      "name": "StaticFloofItIsStruckByLightning",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "static_floof_it_is_struck_by_lightning",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "StaticFloofOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "static_floof_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "StaticFloof",
+      "type": "mob",
+      "sortid": 39,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "static_floof"
     }
   ],
   "variable_elements": [],
@@ -225,13 +276,16 @@
     "en_us": {
       "item.teufox_additions.dust_mixer_item": "Dust Mixer Item",
       "item.teufox_additions.coal_dust": "Coal Dust",
+      "item.teufox_additions.static_floof_spawn_egg": "Static Floof Spawn Egg",
       "entity.teufox_additions.puffle": "Puffle",
       "item.teufox_additions.chisel": "Chisel",
       "itemGroup.tabfloofy_tab": "Floofy Tab",
+      "block.teufox_additions.discharge_station": "Discharge Station",
       "item.teufox_additions.netherite_dust": "Netherite Dust",
       "item.teufox_additions.puffle_spawn_egg": "Puffle Spawn Egg",
       "item.teufox_additions.iron_dust": "Iron Dust",
       "item.teufox_additions.gold_dust": "Gold Dust",
+      "entity.teufox_additions.static_floof": "Static Floof",
       "item.teufox_additions.flint_shears": "Flint Shears",
       "item.teufox_additions.moss_ball": "Moss Ball",
       "item.teufox_additions.stone_dust": "Stone Dust",
